@@ -22,4 +22,4 @@ root - INFO - Classification report for Random Forest saved successfully
 root - INFO - Feature importance plots saved successfully
 root - INFO - Generating ROC AUC plot
 root - INFO - Generating ROC AUC plot
-root - INFO - Total time taken: 64.46120595932007 seconds
+root - INFO - Total time taken: 62.34971904754639 seconds
