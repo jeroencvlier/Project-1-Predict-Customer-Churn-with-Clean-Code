@@ -1,0 +1,25 @@
+root - INFO - File imported successfully
+root - INFO - Hist plot for Churn saved at ./images/eda/histplot_Churn.png
+root - INFO - Hist plot for Customer_Age saved at ./images/eda/histplot_Customer_Age.png
+root - INFO - Bar plot for proportion saved at ./images/eda/barplot_proportion.png
+root - INFO - Snshist plot for Total_Trans_Ct saved at ./images/eda/snshistplot_Total_Trans_Ct.png
+root - INFO - Heatmap plot for correlation_matrix saved at ./images/eda/heatmap_corr.png
+root - INFO - Completed all EDA plots
+root - INFO - Train test split completed successfully
+root - INFO - x_train shape: (7088, 19) , y_train shape: (7088,)
+root - INFO - x_test shape: (3039, 19) , y_test shape: (3039,)
+root - INFO - Grid searching a random forest...
+root - INFO - generate predictions from the best estimator
+root - INFO - save best random forest model
+root - INFO - Training a logistic regression...
+root - INFO - generate predictions from the logistic regression
+root - INFO - save logistic regression model
+root - INFO - generate and save classification report
+root - INFO - Generating classification report for Logistic Regression
+root - INFO - Classification report for Logistic Regression saved successfully
+root - INFO - Generating classification report for Random Forest
+root - INFO - Classification report for Random Forest saved successfully
+root - INFO - Feature importance plots saved successfully
+root - INFO - Generating ROC AUC plot
+root - INFO - Generating ROC AUC plot
+root - INFO - Total time taken: 64.46120595932007 seconds
